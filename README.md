@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5828087.svg)](https://doi.org/10.5281/zenodo.5828087)
+
 # Overview of Repository
 
 This repository contains supporting materials and documents related to both parts of the Fall 2021 Purdue ECE 461 project.
