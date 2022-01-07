@@ -1,37 +1,47 @@
 # Overview of Repository
+
 This repository contains supporting materials and documents related to both parts of the Fall 2021 Purdue ECE 461 project.
 
-The repository is structured as follows.
+## Contents
+
+Following is the directory structure, with annotation indicating the meaning of each file.
+The files are numbered according to the order in which they were shared with the students.
+
 ```
 Fall-2021-Project-Outline\
 ├── README.md
 |    ^ You are here.
 ├── Part 1\
-│   ├── Project 1 - Deliverable Rubric
-│   │    ^ Rubric for final Part 1 deliverable.
-│   ├── Project 1 - Deliverable Template
-│   │    ^ Student template for final Part 1 deliverable.
-│   ├── Project 1 - Intermediate Milestones Template
-│   │    ^ Student template for Part 1 milestones.
-│   ├── Project 1 - Overview
+│   ├── 1-Project Description.docx
 │   │    ^ Overview and requirements for Part 1 of project.
-│   └── Project 1 - Postmortem Template
+│   ├── 2-Intermediate Milestones Template.docx
+│   │    ^ Student template for Part 1 milestones.
+│   ├── 3-Deliverable Template.docx
+│   │    ^ Student template for final Part 1 deliverable.
+│   ├── 4-Deliverable Rubric.docx
+│   │    ^ Rubric for final Part 1 deliverable.
+│   └── 5-Postmortem Template.docx
 │        ^ Student template for Part 1 postmortem report.
 └── Part 2\
-    ├── Project 2 - Final Deliverable Rubric
-    │    ^ Rubric for final Part 2 deliverable.
-    ├── Project 2 - Final Deliverable Template
-    │    ^ Student template for final Part 2 deliverable.
-    ├── Project 2 - Intermediate Deliverable Template
-    │    ^ Student template for the one intermediate Part 2 deliverable.
-    ├── Project 2 - Intermediate Milestones Template
-    │    ^ Student template for Part 2 milestones.
-    ├── Project 2 - OpenAPI Spec.yaml
-    │    ^ OpenAPI specification for Part 2 API.
-    ├── Project 2 - Overview
+    ├── 1-Project Description.docx
     │    ^ Overview and requirements for Part 2 of project.
-    ├── Project 2 - Plan Template
+    ├── 2-OpenAPI Spec.yaml
+    │    ^ OpenAPI specification for Part 2 API. The students were referred to https://www.apicur.io for interacting with this specification.
+    ├── 3-Plan Template.docx
     │    ^ Student template for Part 2 project team plan.
-    └── Project 2 - Postmortem Template
-         ^ Student template for Part 2 postmortem report.
+    ├── 4-Intermediate Milestones Template.docx
+    │    ^ Student template for Part 2 milestones. This template is an improvement on the one used in Part 1.
+    ├── 5-Intermediate Deliverable Template.docx
+    │    ^ Student template for the one intermediate Part 2 deliverable.
+    ├── 6-Final Deliverable Template.docx
+    │    ^ Student template for final Part 2 deliverable.
+    ├── 7-Final Deliverable Rubric.docx
+    │    ^ Rubric for final Part 2 deliverable.
+    └── 8-Postmortem Template.docx
+         ^ Student template for Part 2 postmortem report. This template expands on the one used in Part 1 to capture elements specific to Part 2 (e.g. knowledge management).
 ```
+
+## A note on naming
+
+The manuscript refers to the project as occurring in two parts.
+We presented it to the students as "Project 1" and "Project 2", and this naming is reflected within the project documents.
